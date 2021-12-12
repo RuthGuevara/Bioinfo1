@@ -1,1 +1,5 @@
-
+# Comprobaciòn
+## Se verifica que en GitBash los resultados son
+- Colunmas : 80
+- Filas : 97
+### Fin de la ejecuciòn 
